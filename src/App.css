@@ -42,3 +42,11 @@ a {
 ul {
     list-style-type: none;
 }
+
+#searchIndex {
+  font-size: x-large;
+}
+
+.error-text {
+  color: #b40e0e;
+}
