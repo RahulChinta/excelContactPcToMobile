@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/excelContactPcToMobile/static/css/main.d99e252e.chunk.css",
+    "main.js": "/excelContactPcToMobile/static/js/main.a9aa0b64.chunk.js",
+    "main.js.map": "/excelContactPcToMobile/static/js/main.a9aa0b64.chunk.js.map",
+    "runtime-main.js": "/excelContactPcToMobile/static/js/runtime-main.b319a8ca.js",
+    "runtime-main.js.map": "/excelContactPcToMobile/static/js/runtime-main.b319a8ca.js.map",
+    "static/js/2.f6dcb36d.chunk.js": "/excelContactPcToMobile/static/js/2.f6dcb36d.chunk.js",
+    "static/js/2.f6dcb36d.chunk.js.map": "/excelContactPcToMobile/static/js/2.f6dcb36d.chunk.js.map",
+    "index.html": "/excelContactPcToMobile/index.html",
+    "static/css/main.d99e252e.chunk.css.map": "/excelContactPcToMobile/static/css/main.d99e252e.chunk.css.map",
+    "static/js/2.f6dcb36d.chunk.js.LICENSE.txt": "/excelContactPcToMobile/static/js/2.f6dcb36d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b319a8ca.js",
+    "static/js/2.f6dcb36d.chunk.js",
+    "static/css/main.d99e252e.chunk.css",
+    "static/js/main.a9aa0b64.chunk.js"
+  ]
+}
